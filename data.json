@@ -1,0 +1,1703 @@
+{
+  "meta": {
+    "source": "https://web-scraping.dev",
+    "scraped_at_utc": "2025-12-26T21:47:22+00:00"
+  },
+  "products": [
+    {
+      "id": "7",
+      "name": "Hiking Boots for Outdoor Adventures",
+      "price": "89.99",
+      "url": "https://web-scraping.dev/product/7",
+      "duplicate_ids": [
+        "19"
+      ],
+      "duplicate_urls": [
+        "https://web-scraping.dev/product/19"
+      ]
+    },
+    {
+      "id": "8",
+      "name": "Women's High Heel Sandals",
+      "price": "59.99",
+      "url": "https://web-scraping.dev/product/8",
+      "duplicate_ids": [
+        "20"
+      ],
+      "duplicate_urls": [
+        "https://web-scraping.dev/product/20"
+      ]
+    },
+    {
+      "id": "9",
+      "name": "Running Shoes for Men",
+      "price": "49.99",
+      "url": "https://web-scraping.dev/product/9",
+      "duplicate_ids": [
+        "21"
+      ],
+      "duplicate_urls": [
+        "https://web-scraping.dev/product/21"
+      ]
+    },
+    {
+      "id": "10",
+      "name": "Kids' Light-Up Sneakers",
+      "price": "29.99",
+      "url": "https://web-scraping.dev/product/10",
+      "duplicate_ids": [
+        "22"
+      ],
+      "duplicate_urls": [
+        "https://web-scraping.dev/product/22"
+      ]
+    },
+    {
+      "id": "11",
+      "name": "Classic Leather Sneakers",
+      "price": "79.99",
+      "url": "https://web-scraping.dev/product/11",
+      "duplicate_ids": [
+        "23"
+      ],
+      "duplicate_urls": [
+        "https://web-scraping.dev/product/23"
+      ]
+    },
+    {
+      "id": "12",
+      "name": "Cat-Ear Beanie",
+      "price": "14.99",
+      "url": "https://web-scraping.dev/product/12",
+      "duplicate_ids": [
+        "24"
+      ],
+      "duplicate_urls": [
+        "https://web-scraping.dev/product/24"
+      ]
+    },
+    {
+      "id": "1",
+      "name": "Box of Chocolate Candy",
+      "price": "24.99",
+      "url": "https://web-scraping.dev/product/1",
+      "duplicate_ids": [
+        "13",
+        "25"
+      ],
+      "duplicate_urls": [
+        "https://web-scraping.dev/product/13",
+        "https://web-scraping.dev/product/25"
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Dark Red Energy Potion",
+      "price": "4.99",
+      "url": "https://web-scraping.dev/product/2",
+      "duplicate_ids": [
+        "14",
+        "26"
+      ],
+      "duplicate_urls": [
+        "https://web-scraping.dev/product/14",
+        "https://web-scraping.dev/product/26"
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Teal Energy Potion",
+      "price": "4.99",
+      "url": "https://web-scraping.dev/product/3",
+      "duplicate_ids": [
+        "15",
+        "27"
+      ],
+      "duplicate_urls": [
+        "https://web-scraping.dev/product/15",
+        "https://web-scraping.dev/product/27"
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Red Energy Potion",
+      "price": "4.99",
+      "url": "https://web-scraping.dev/product/4",
+      "duplicate_ids": [
+        "16",
+        "28"
+      ],
+      "duplicate_urls": [
+        "https://web-scraping.dev/product/16",
+        "https://web-scraping.dev/product/28"
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Blue Energy Potion",
+      "price": "4.99",
+      "url": "https://web-scraping.dev/product/5",
+      "duplicate_ids": [
+        "17"
+      ],
+      "duplicate_urls": [
+        "https://web-scraping.dev/product/17"
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Dragon Energy Potion",
+      "price": "4.99",
+      "url": "https://web-scraping.dev/product/6",
+      "duplicate_ids": [
+        "18"
+      ],
+      "duplicate_urls": [
+        "https://web-scraping.dev/product/18"
+      ]
+    }
+  ],
+  "products_raw": [
+    {
+      "id": "7",
+      "name": "Hiking Boots for Outdoor Adventures",
+      "price": "89.99",
+      "url": "https://web-scraping.dev/product/7",
+      "category": "apparel"
+    },
+    {
+      "id": "8",
+      "name": "Women's High Heel Sandals",
+      "price": "59.99",
+      "url": "https://web-scraping.dev/product/8",
+      "category": "apparel"
+    },
+    {
+      "id": "9",
+      "name": "Running Shoes for Men",
+      "price": "49.99",
+      "url": "https://web-scraping.dev/product/9",
+      "category": "apparel"
+    },
+    {
+      "id": "10",
+      "name": "Kids' Light-Up Sneakers",
+      "price": "29.99",
+      "url": "https://web-scraping.dev/product/10",
+      "category": "apparel"
+    },
+    {
+      "id": "11",
+      "name": "Classic Leather Sneakers",
+      "price": "79.99",
+      "url": "https://web-scraping.dev/product/11",
+      "category": "apparel"
+    },
+    {
+      "id": "12",
+      "name": "Cat-Ear Beanie",
+      "price": "14.99",
+      "url": "https://web-scraping.dev/product/12",
+      "category": "apparel"
+    },
+    {
+      "id": "19",
+      "name": "Hiking Boots for Outdoor Adventures",
+      "price": "89.99",
+      "url": "https://web-scraping.dev/product/19",
+      "category": "apparel"
+    },
+    {
+      "id": "20",
+      "name": "Women's High Heel Sandals",
+      "price": "59.99",
+      "url": "https://web-scraping.dev/product/20",
+      "category": "apparel"
+    },
+    {
+      "id": "21",
+      "name": "Running Shoes for Men",
+      "price": "49.99",
+      "url": "https://web-scraping.dev/product/21",
+      "category": "apparel"
+    },
+    {
+      "id": "22",
+      "name": "Kids' Light-Up Sneakers",
+      "price": "29.99",
+      "url": "https://web-scraping.dev/product/22",
+      "category": "apparel"
+    },
+    {
+      "id": "23",
+      "name": "Classic Leather Sneakers",
+      "price": "79.99",
+      "url": "https://web-scraping.dev/product/23",
+      "category": "apparel"
+    },
+    {
+      "id": "24",
+      "name": "Cat-Ear Beanie",
+      "price": "14.99",
+      "url": "https://web-scraping.dev/product/24",
+      "category": "apparel"
+    },
+    {
+      "id": "1",
+      "name": "Box of Chocolate Candy",
+      "price": "24.99",
+      "url": "https://web-scraping.dev/product/1",
+      "category": "consumables"
+    },
+    {
+      "id": "2",
+      "name": "Dark Red Energy Potion",
+      "price": "4.99",
+      "url": "https://web-scraping.dev/product/2",
+      "category": "consumables"
+    },
+    {
+      "id": "3",
+      "name": "Teal Energy Potion",
+      "price": "4.99",
+      "url": "https://web-scraping.dev/product/3",
+      "category": "consumables"
+    },
+    {
+      "id": "4",
+      "name": "Red Energy Potion",
+      "price": "4.99",
+      "url": "https://web-scraping.dev/product/4",
+      "category": "consumables"
+    },
+    {
+      "id": "5",
+      "name": "Blue Energy Potion",
+      "price": "4.99",
+      "url": "https://web-scraping.dev/product/5",
+      "category": "consumables"
+    },
+    {
+      "id": "6",
+      "name": "Dragon Energy Potion",
+      "price": "4.99",
+      "url": "https://web-scraping.dev/product/6",
+      "category": "consumables"
+    },
+    {
+      "id": "13",
+      "name": "Box of Chocolate Candy",
+      "price": "24.99",
+      "url": "https://web-scraping.dev/product/13",
+      "category": "consumables"
+    },
+    {
+      "id": "14",
+      "name": "Dark Red Energy Potion",
+      "price": "4.99",
+      "url": "https://web-scraping.dev/product/14",
+      "category": "consumables"
+    },
+    {
+      "id": "15",
+      "name": "Teal Energy Potion",
+      "price": "4.99",
+      "url": "https://web-scraping.dev/product/15",
+      "category": "consumables"
+    },
+    {
+      "id": "16",
+      "name": "Red Energy Potion",
+      "price": "4.99",
+      "url": "https://web-scraping.dev/product/16",
+      "category": "consumables"
+    },
+    {
+      "id": "17",
+      "name": "Blue Energy Potion",
+      "price": "4.99",
+      "url": "https://web-scraping.dev/product/17",
+      "category": "consumables"
+    },
+    {
+      "id": "18",
+      "name": "Dragon Energy Potion",
+      "price": "4.99",
+      "url": "https://web-scraping.dev/product/18",
+      "category": "consumables"
+    },
+    {
+      "id": "25",
+      "name": "Box of Chocolate Candy",
+      "price": "24.99",
+      "url": "https://web-scraping.dev/product/25",
+      "category": "consumables"
+    },
+    {
+      "id": "26",
+      "name": "Dark Red Energy Potion",
+      "price": "4.99",
+      "url": "https://web-scraping.dev/product/26",
+      "category": "consumables"
+    },
+    {
+      "id": "27",
+      "name": "Teal Energy Potion",
+      "price": "4.99",
+      "url": "https://web-scraping.dev/product/27",
+      "category": "consumables"
+    },
+    {
+      "id": "28",
+      "name": "Red Energy Potion",
+      "price": "4.99",
+      "url": "https://web-scraping.dev/product/28",
+      "category": "consumables"
+    }
+  ],
+  "testimonials": [
+    {
+      "comment": "We've been using this utility for years - awesome service!"
+    },
+    {
+      "comment": "This Python app simplified my workflow significantly. Highly recommended."
+    },
+    {
+      "comment": "Had a few issues at first, but their support team is top-notch!"
+    },
+    {
+      "comment": "A fantastic tool - it has everything you need and more."
+    },
+    {
+      "comment": "The interface could be a little more user-friendly."
+    },
+    {
+      "comment": "Been a fan of this app since day one. It just keeps getting better!"
+    },
+    {
+      "comment": "The recent updates really improved the overall experience."
+    },
+    {
+      "comment": "A decent web app. There's room for improvement though."
+    },
+    {
+      "comment": "The app is reliable and efficient. I can't imagine my day without it now."
+    },
+    {
+      "comment": "Encountered some bugs. Hope they fix it soon."
+    },
+    {
+      "comment": "This web app is a game-changer! I've boosted my productivity."
+    },
+    {
+      "comment": "The features are great but it took me a while to understand how to use them."
+    },
+    {
+      "comment": "Love the simplicity and effectiveness of this app."
+    },
+    {
+      "comment": "It's an okay tool, but I've used better."
+    },
+    {
+      "comment": "Fantastic app! It's made my job so much easier."
+    },
+    {
+      "comment": "The learning curve is steep, but it's worth it."
+    },
+    {
+      "comment": "Great concept but needs more work on the execution."
+    },
+    {
+      "comment": "This app is innovative and has a lot of potentials. Keep it up!"
+    },
+    {
+      "comment": "It's a solid tool, but there are some minor issues."
+    },
+    {
+      "comment": "A great app that delivers on its promises. Very impressed."
+    },
+    {
+      "comment": "I'm blown away by the features and functionality. Incredible app!"
+    },
+    {
+      "comment": "I'm not satisfied with the app's performance. Disappointing."
+    },
+    {
+      "comment": "The customer support team went above and beyond to help me. Excellent service!"
+    },
+    {
+      "comment": "The app crashes frequently, making it unreliable for my needs."
+    },
+    {
+      "comment": "I've recommended this app to all my colleagues. It's a game-changer!"
+    },
+    {
+      "comment": "The user interface is intuitive and well-designed. Easy to navigate."
+    },
+    {
+      "comment": "I expected more from this app. It didn't meet my expectations."
+    },
+    {
+      "comment": "The app's performance has improved significantly with the latest update."
+    },
+    {
+      "comment": "This app has saved me so much time and effort. Highly efficient!"
+    },
+    {
+      "comment": "There are some minor bugs, but overall, a solid app."
+    },
+    {
+      "comment": "I've tried many similar apps, but this one stands out. Impressive!"
+    },
+    {
+      "comment": "The app's user interface could use some improvements. It feels outdated."
+    },
+    {
+      "comment": "I'm extremely satisfied with the app's performance. Works like a charm!"
+    },
+    {
+      "comment": "The app's documentation is comprehensive and easy to follow."
+    },
+    {
+      "comment": "I'm disappointed with the lack of updates and new features."
+    },
+    {
+      "comment": "This app has become an essential part of my workflow. Highly recommended!"
+    },
+    {
+      "comment": "The app is slow and unresponsive at times. Needs optimization."
+    },
+    {
+      "comment": "I love the clean and modern design of the app. Pleasing to the eye."
+    },
+    {
+      "comment": "I've encountered several bugs that hindered my productivity."
+    },
+    {
+      "comment": "This app has become an indispensable tool for me. Great job!"
+    },
+    {
+      "comment": "The app's user interface is cluttered and confusing. Difficult to navigate."
+    },
+    {
+      "comment": "I've been using this app for a while now, and it has become an essential part of my daily routine. Highly recommended!"
+    },
+    {
+      "comment": "The customer support team was unresponsive and unhelpful. Disappointing experience."
+    },
+    {
+      "comment": "This app has revolutionized the way I work. It's efficient and user-friendly."
+    },
+    {
+      "comment": "The app's performance is inconsistent. It works well sometimes, but other times it's slow and unresponsive."
+    },
+    {
+      "comment": "I'm impressed by the frequent updates and new features added to the app. It keeps getting better!"
+    },
+    {
+      "comment": "I had high hopes for this app, but it failed to meet my expectations. It lacks important features."
+    },
+    {
+      "comment": "The app's interface is intuitive and easy to navigate. I didn't face any issues while using it."
+    },
+    {
+      "comment": "This app is a must-have for anyone in the industry. It streamlines processes and saves time."
+    },
+    {
+      "comment": "I encountered a critical bug that caused data loss. It was a frustrating experience."
+    },
+    {
+      "comment": "The app's design is visually appealing, and the user experience is excellent."
+    },
+    {
+      "comment": "The app's functionality is limited. It needs more features to be truly useful."
+    },
+    {
+      "comment": "I've had a positive experience using this app. It has improved my productivity significantly."
+    },
+    {
+      "comment": "The app crashes frequently, making it unreliable for daily use."
+    },
+    {
+      "comment": "The app's customer support team was prompt and helpful in resolving my issues. Great service!"
+    },
+    {
+      "comment": "I've tried many similar apps, but this one stands out with its exceptional performance and features."
+    },
+    {
+      "comment": "The app's user interface is outdated and not intuitive. It needs a modern redesign."
+    },
+    {
+      "comment": "I'm extremely satisfied with this app. It has exceeded my expectations in every way."
+    },
+    {
+      "comment": "The app's documentation is comprehensive and easy to follow, making it easy to get started."
+    },
+    {
+      "comment": "The app's performance has been flawless. I haven't experienced any issues or slowdowns."
+    }
+  ],
+  "reviews": [
+    {
+      "product_id": "7",
+      "date": "2023-06-15",
+      "date_is_synthetic": false,
+      "text": "These boots are fantastic for hiking. The grip on the soles is really good.",
+      "rating": 5,
+      "author": null,
+      "source": "product_page"
+    },
+    {
+      "product_id": "7",
+      "date": "2023-07-30",
+      "date_is_synthetic": false,
+      "text": "Comfortable and sturdy. Perfect for outdoor adventures.",
+      "rating": 5,
+      "author": null,
+      "source": "product_page"
+    },
+    {
+      "product_id": "7",
+      "date": "2023-08-15",
+      "date_is_synthetic": false,
+      "text": "Good quality boots. They keep my feet dry and comfortable during long hikes.",
+      "rating": 4,
+      "author": null,
+      "source": "product_page"
+    },
+    {
+      "product_id": "7",
+      "date": "2023-09-28",
+      "date_is_synthetic": false,
+      "text": "These boots are durable and comfortable, but they're a bit heavy.",
+      "rating": 4,
+      "author": null,
+      "source": "product_page"
+    },
+    {
+      "product_id": "7",
+      "date": "2023-10-19",
+      "date_is_synthetic": false,
+      "text": "Great boots! The size was perfect, and they're very comfortable.",
+      "rating": 5,
+      "author": null,
+      "source": "product_page"
+    },
+    {
+      "product_id": "8",
+      "date": "2023-06-12",
+      "date_is_synthetic": false,
+      "text": "Stylish and comfortable! I love the strappy design.",
+      "rating": 5,
+      "author": null,
+      "source": "product_page"
+    },
+    {
+      "product_id": "8",
+      "date": "2023-07-18",
+      "date_is_synthetic": false,
+      "text": "These sandals look great, but they're a bit tight. Maybe they'll stretch over time.",
+      "rating": 4,
+      "author": null,
+      "source": "product_page"
+    },
+    {
+      "product_id": "8",
+      "date": "2023-08-03",
+      "date_is_synthetic": false,
+      "text": "Absolutely love these sandals! They're so elegant and surprisingly comfortable.",
+      "rating": 5,
+      "author": null,
+      "source": "product_page"
+    },
+    {
+      "product_id": "8",
+      "date": "2023-09-27",
+      "date_is_synthetic": false,
+      "text": "The sandals are pretty, but the heel is higher than I expected.",
+      "rating": 3,
+      "author": null,
+      "source": "product_page"
+    },
+    {
+      "product_id": "8",
+      "date": "2023-10-14",
+      "date_is_synthetic": false,
+      "text": "Great quality for the price. The buckle closure is secure, and the heel feels sturdy.",
+      "rating": 4,
+      "author": null,
+      "source": "product_page"
+    },
+    {
+      "product_id": "9",
+      "date": "2023-07-01",
+      "date_is_synthetic": false,
+      "text": "Great shoes for running! Comfortable and stylish, with excellent traction.",
+      "rating": 5,
+      "author": null,
+      "source": "product_page"
+    },
+    {
+      "product_id": "9",
+      "date": "2023-07-20",
+      "date_is_synthetic": false,
+      "text": "Very happy with my purchase. These shoes provide good support for my morning jogs.",
+      "rating": 4,
+      "author": null,
+      "source": "product_page"
+    },
+    {
+      "product_id": "9",
+      "date": "2023-08-10",
+      "date_is_synthetic": false,
+      "text": "These shoes look good, but they wore out a bit faster than I expected.",
+      "rating": 3,
+      "author": null,
+      "source": "product_page"
+    },
+    {
+      "product_id": "9",
+      "date": "2023-09-15",
+      "date_is_synthetic": false,
+      "text": "Best running shoes I've had in a while. They're really comfortable, even on long runs.",
+      "rating": 5,
+      "author": null,
+      "source": "product_page"
+    },
+    {
+      "product_id": "9",
+      "date": "2023-10-05",
+      "date_is_synthetic": false,
+      "text": "Good shoes, but they run a little small. I'd recommend ordering a half size up.",
+      "rating": 4,
+      "author": null,
+      "source": "product_page"
+    },
+    {
+      "product_id": "10",
+      "date": "2023-07-01",
+      "date_is_synthetic": false,
+      "text": "My daughter loves these shoes! She doesn't want to take them off. They're comfortable and the lights are a big hit.",
+      "rating": 5,
+      "author": null,
+      "source": "product_page"
+    },
+    {
+      "product_id": "10",
+      "date": "2023-07-20",
+      "date_is_synthetic": false,
+      "text": "Bought these for my son's birthday, and they were the star of the party. Great shoes!",
+      "rating": 5,
+      "author": null,
+      "source": "product_page"
+    },
+    {
+      "product_id": "10",
+      "date": "2023-08-10",
+      "date_is_synthetic": false,
+      "text": "Cool shoes, but the lights stopped working after a few weeks.",
+      "rating": 3,
+      "author": null,
+      "source": "product_page"
+    },
+    {
+      "product_id": "10",
+      "date": "2023-09-15",
+      "date_is_synthetic": false,
+      "text": "Comfortable and fun! My child loves showing off the light-up feature to friends.",
+      "rating": 4,
+      "author": null,
+      "source": "product_page"
+    },
+    {
+      "product_id": "10",
+      "date": "2023-10-05",
+      "date_is_synthetic": false,
+      "text": "Nice design and the lights are bright. However, they run a bit small. Order a size up.",
+      "rating": 4,
+      "author": null,
+      "source": "product_page"
+    },
+    {
+      "product_id": "11",
+      "date": "2023-06-15",
+      "date_is_synthetic": false,
+      "text": "These shoes are not only stylish, but also super comfortable. They're perfect for any occasion!",
+      "rating": 5,
+      "author": null,
+      "source": "product_page"
+    },
+    {
+      "product_id": "11",
+      "date": "2023-07-10",
+      "date_is_synthetic": false,
+      "text": "I love the classic design of these sneakers. They match well with my outfits. The leather is of top quality.",
+      "rating": 4,
+      "author": null,
+      "source": "product_page"
+    },
+    {
+      "product_id": "11",
+      "date": "2023-08-07",
+      "date_is_synthetic": false,
+      "text": "I got the black ones and they look sleek. Got compliments on the first day I wore them out.",
+      "rating": 5,
+      "author": null,
+      "source": "product_page"
+    },
+    {
+      "product_id": "11",
+      "date": "2023-09-12",
+      "date_is_synthetic": false,
+      "text": "They're nice shoes but they felt a little tight at first. They loosened up after a few days though.",
+      "rating": 3,
+      "author": null,
+      "source": "product_page"
+    },
+    {
+      "product_id": "11",
+      "date": "2023-11-20",
+      "date_is_synthetic": false,
+      "text": "Was looking for a good pair of white sneakers and these fit the bill. Excellent quality and design.",
+      "rating": 5,
+      "author": null,
+      "source": "product_page"
+    },
+    {
+      "product_id": "12",
+      "date": "2023-07-15",
+      "date_is_synthetic": false,
+      "text": "Love this Cat Ear Beanie! It's so cute and surprisingly warm. The material is so soft, and the cat ears are a nice touch!",
+      "rating": 5,
+      "author": null,
+      "source": "product_page"
+    },
+    {
+      "product_id": "12",
+      "date": "2023-09-20",
+      "date_is_synthetic": false,
+      "text": "A cozy and unique beanie. Received a lot of compliments. Plus, it's cat-themed, so that's a win for me!",
+      "rating": 4,
+      "author": null,
+      "source": "product_page"
+    },
+    {
+      "product_id": "12",
+      "date": "2023-10-05",
+      "date_is_synthetic": false,
+      "text": "Great beanie, but I wish there were more colors available. The cat ears design is really nice.",
+      "rating": 3,
+      "author": null,
+      "source": "product_page"
+    },
+    {
+      "product_id": "12",
+      "date": "2023-12-25",
+      "date_is_synthetic": false,
+      "text": "I bought this for my daughter, and she adores it! It's become her favorite winter accessory.",
+      "rating": 5,
+      "author": null,
+      "source": "product_page"
+    },
+    {
+      "product_id": "12",
+      "date": "2023-01-10",
+      "date_is_synthetic": false,
+      "text": "A must-have for cat lovers. It's adorable and keeps me warm during chilly weather.",
+      "rating": 4,
+      "author": null,
+      "source": "product_page"
+    },
+    {
+      "product_id": "19",
+      "date": "2023-06-15",
+      "date_is_synthetic": false,
+      "text": "These boots are fantastic for hiking. The grip on the soles is really good.",
+      "rating": 5,
+      "author": null,
+      "source": "product_page"
+    },
+    {
+      "product_id": "19",
+      "date": "2023-07-30",
+      "date_is_synthetic": false,
+      "text": "Comfortable and sturdy. Perfect for outdoor adventures.",
+      "rating": 5,
+      "author": null,
+      "source": "product_page"
+    },
+    {
+      "product_id": "19",
+      "date": "2023-08-15",
+      "date_is_synthetic": false,
+      "text": "Good quality boots. They keep my feet dry and comfortable during long hikes.",
+      "rating": 4,
+      "author": null,
+      "source": "product_page"
+    },
+    {
+      "product_id": "19",
+      "date": "2023-09-28",
+      "date_is_synthetic": false,
+      "text": "These boots are durable and comfortable, but they're a bit heavy.",
+      "rating": 4,
+      "author": null,
+      "source": "product_page"
+    },
+    {
+      "product_id": "19",
+      "date": "2023-10-19",
+      "date_is_synthetic": false,
+      "text": "Great boots! The size was perfect, and they're very comfortable.",
+      "rating": 5,
+      "author": null,
+      "source": "product_page"
+    },
+    {
+      "product_id": "20",
+      "date": "2023-06-12",
+      "date_is_synthetic": false,
+      "text": "Stylish and comfortable! I love the strappy design.",
+      "rating": 5,
+      "author": null,
+      "source": "product_page"
+    },
+    {
+      "product_id": "20",
+      "date": "2023-07-18",
+      "date_is_synthetic": false,
+      "text": "These sandals look great, but they're a bit tight. Maybe they'll stretch over time.",
+      "rating": 4,
+      "author": null,
+      "source": "product_page"
+    },
+    {
+      "product_id": "20",
+      "date": "2023-08-03",
+      "date_is_synthetic": false,
+      "text": "Absolutely love these sandals! They're so elegant and surprisingly comfortable.",
+      "rating": 5,
+      "author": null,
+      "source": "product_page"
+    },
+    {
+      "product_id": "20",
+      "date": "2023-09-27",
+      "date_is_synthetic": false,
+      "text": "The sandals are pretty, but the heel is higher than I expected.",
+      "rating": 3,
+      "author": null,
+      "source": "product_page"
+    },
+    {
+      "product_id": "20",
+      "date": "2023-10-14",
+      "date_is_synthetic": false,
+      "text": "Great quality for the price. The buckle closure is secure, and the heel feels sturdy.",
+      "rating": 4,
+      "author": null,
+      "source": "product_page"
+    },
+    {
+      "product_id": "21",
+      "date": "2023-07-01",
+      "date_is_synthetic": false,
+      "text": "Great shoes for running! Comfortable and stylish, with excellent traction.",
+      "rating": 5,
+      "author": null,
+      "source": "product_page"
+    },
+    {
+      "product_id": "21",
+      "date": "2023-07-20",
+      "date_is_synthetic": false,
+      "text": "Very happy with my purchase. These shoes provide good support for my morning jogs.",
+      "rating": 4,
+      "author": null,
+      "source": "product_page"
+    },
+    {
+      "product_id": "21",
+      "date": "2023-08-10",
+      "date_is_synthetic": false,
+      "text": "These shoes look good, but they wore out a bit faster than I expected.",
+      "rating": 3,
+      "author": null,
+      "source": "product_page"
+    },
+    {
+      "product_id": "21",
+      "date": "2023-09-15",
+      "date_is_synthetic": false,
+      "text": "Best running shoes I've had in a while. They're really comfortable, even on long runs.",
+      "rating": 5,
+      "author": null,
+      "source": "product_page"
+    },
+    {
+      "product_id": "21",
+      "date": "2023-10-05",
+      "date_is_synthetic": false,
+      "text": "Good shoes, but they run a little small. I'd recommend ordering a half size up.",
+      "rating": 4,
+      "author": null,
+      "source": "product_page"
+    },
+    {
+      "product_id": "22",
+      "date": "2023-07-01",
+      "date_is_synthetic": false,
+      "text": "My daughter loves these shoes! She doesn't want to take them off. They're comfortable and the lights are a big hit.",
+      "rating": 5,
+      "author": null,
+      "source": "product_page"
+    },
+    {
+      "product_id": "22",
+      "date": "2023-07-20",
+      "date_is_synthetic": false,
+      "text": "Bought these for my son's birthday, and they were the star of the party. Great shoes!",
+      "rating": 5,
+      "author": null,
+      "source": "product_page"
+    },
+    {
+      "product_id": "22",
+      "date": "2023-08-10",
+      "date_is_synthetic": false,
+      "text": "Cool shoes, but the lights stopped working after a few weeks.",
+      "rating": 3,
+      "author": null,
+      "source": "product_page"
+    },
+    {
+      "product_id": "22",
+      "date": "2023-09-15",
+      "date_is_synthetic": false,
+      "text": "Comfortable and fun! My child loves showing off the light-up feature to friends.",
+      "rating": 4,
+      "author": null,
+      "source": "product_page"
+    },
+    {
+      "product_id": "22",
+      "date": "2023-10-05",
+      "date_is_synthetic": false,
+      "text": "Nice design and the lights are bright. However, they run a bit small. Order a size up.",
+      "rating": 4,
+      "author": null,
+      "source": "product_page"
+    },
+    {
+      "product_id": "23",
+      "date": "2023-06-15",
+      "date_is_synthetic": false,
+      "text": "These shoes are not only stylish, but also super comfortable. They're perfect for any occasion!",
+      "rating": 5,
+      "author": null,
+      "source": "product_page"
+    },
+    {
+      "product_id": "23",
+      "date": "2023-07-10",
+      "date_is_synthetic": false,
+      "text": "I love the classic design of these sneakers. They match well with my outfits. The leather is of top quality.",
+      "rating": 4,
+      "author": null,
+      "source": "product_page"
+    },
+    {
+      "product_id": "23",
+      "date": "2023-08-07",
+      "date_is_synthetic": false,
+      "text": "I got the black ones and they look sleek. Got compliments on the first day I wore them out.",
+      "rating": 5,
+      "author": null,
+      "source": "product_page"
+    },
+    {
+      "product_id": "23",
+      "date": "2023-09-12",
+      "date_is_synthetic": false,
+      "text": "They're nice shoes but they felt a little tight at first. They loosened up after a few days though.",
+      "rating": 3,
+      "author": null,
+      "source": "product_page"
+    },
+    {
+      "product_id": "23",
+      "date": "2023-11-20",
+      "date_is_synthetic": false,
+      "text": "Was looking for a good pair of white sneakers and these fit the bill. Excellent quality and design.",
+      "rating": 5,
+      "author": null,
+      "source": "product_page"
+    },
+    {
+      "product_id": "24",
+      "date": "2023-07-15",
+      "date_is_synthetic": false,
+      "text": "Love this Cat Ear Beanie! It's so cute and surprisingly warm. The material is so soft, and the cat ears are a nice touch!",
+      "rating": 5,
+      "author": null,
+      "source": "product_page"
+    },
+    {
+      "product_id": "24",
+      "date": "2023-09-20",
+      "date_is_synthetic": false,
+      "text": "A cozy and unique beanie. Received a lot of compliments. Plus, it's cat-themed, so that's a win for me!",
+      "rating": 4,
+      "author": null,
+      "source": "product_page"
+    },
+    {
+      "product_id": "24",
+      "date": "2023-10-05",
+      "date_is_synthetic": false,
+      "text": "Great beanie, but I wish there were more colors available. The cat ears design is really nice.",
+      "rating": 3,
+      "author": null,
+      "source": "product_page"
+    },
+    {
+      "product_id": "24",
+      "date": "2023-12-25",
+      "date_is_synthetic": false,
+      "text": "I bought this for my daughter, and she adores it! It's become her favorite winter accessory.",
+      "rating": 5,
+      "author": null,
+      "source": "product_page"
+    },
+    {
+      "product_id": "24",
+      "date": "2023-01-10",
+      "date_is_synthetic": false,
+      "text": "A must-have for cat lovers. It's adorable and keeps me warm during chilly weather.",
+      "rating": 4,
+      "author": null,
+      "source": "product_page"
+    },
+    {
+      "product_id": "1",
+      "date": "2023-07-22",
+      "date_is_synthetic": false,
+      "text": "Absolutely delicious! The orange flavor is my favorite.",
+      "rating": 5,
+      "author": null,
+      "source": "product_page"
+    },
+    {
+      "product_id": "1",
+      "date": "2023-08-16",
+      "date_is_synthetic": false,
+      "text": "I bought these as a gift, and they were well received. Will definitely purchase again.",
+      "rating": 4,
+      "author": null,
+      "source": "product_page"
+    },
+    {
+      "product_id": "1",
+      "date": "2023-09-10",
+      "date_is_synthetic": false,
+      "text": "Nice variety of flavors. The chocolate is rich and smooth.",
+      "rating": 5,
+      "author": null,
+      "source": "product_page"
+    },
+    {
+      "product_id": "1",
+      "date": "2023-10-02",
+      "date_is_synthetic": false,
+      "text": "The cherry flavor is amazing. Will be buying more.",
+      "rating": 5,
+      "author": null,
+      "source": "product_page"
+    },
+    {
+      "product_id": "1",
+      "date": "2023-11-05",
+      "date_is_synthetic": false,
+      "text": "A bit pricey, but the quality of the chocolate is worth it.",
+      "rating": 4,
+      "author": null,
+      "source": "product_page"
+    },
+    {
+      "product_id": "2",
+      "date": "2023-02-12",
+      "date_is_synthetic": false,
+      "text": "The cherry cola flavor is very appealing. Provides a good energy boost for gaming!",
+      "rating": 4,
+      "author": null,
+      "source": "product_page"
+    },
+    {
+      "product_id": "2",
+      "date": "2023-03-14",
+      "date_is_synthetic": false,
+      "text": "Definitely helped me stay focused during my long gaming nights. Plus, the bottle design is pretty cool.",
+      "rating": 5,
+      "author": null,
+      "source": "product_page"
+    },
+    {
+      "product_id": "2",
+      "date": "2023-04-05",
+      "date_is_synthetic": false,
+      "text": "Great taste, and the energy kick is awesome. Feels just like a strength potion.",
+      "rating": 5,
+      "author": null,
+      "source": "product_page"
+    },
+    {
+      "product_id": "2",
+      "date": "2023-05-12",
+      "date_is_synthetic": false,
+      "text": "The cherry cola flavor is a win. Keeps me energized and focused.",
+      "rating": 5,
+      "author": null,
+      "source": "product_page"
+    },
+    {
+      "product_id": "3",
+      "date": "2023-02-12",
+      "date_is_synthetic": false,
+      "text": "The mint and citrus blend is very refreshing. And the bottle design is great too!",
+      "rating": 5,
+      "author": null,
+      "source": "product_page"
+    },
+    {
+      "product_id": "3",
+      "date": "2023-03-14",
+      "date_is_synthetic": false,
+      "text": "I love how it gives me the energy I need for my gaming sessions. Plus, no sugar crash.",
+      "rating": 4,
+      "author": null,
+      "source": "product_page"
+    },
+    {
+      "product_id": "3",
+      "date": "2023-04-07",
+      "date_is_synthetic": false,
+      "text": "Really helps me focus during intense gaming marathons. The teal color is a nice touch.",
+      "rating": 5,
+      "author": null,
+      "source": "product_page"
+    },
+    {
+      "product_id": "3",
+      "date": "2023-05-18",
+      "date_is_synthetic": false,
+      "text": "Unique flavor and great energy boost. It's the perfect gamer's drink!",
+      "rating": 5,
+      "author": null,
+      "source": "product_page"
+    },
+    {
+      "product_id": "4",
+      "date": "2023-02-10",
+      "date_is_synthetic": false,
+      "text": "The berry flavor is intense and delicious. Great for keeping me focused during my gaming sessions.",
+      "rating": 5,
+      "author": null,
+      "source": "product_page"
+    },
+    {
+      "product_id": "4",
+      "date": "2023-03-20",
+      "date_is_synthetic": false,
+      "text": "Not only does it look cool, but it tastes great and gives a good energy boost!",
+      "rating": 5,
+      "author": null,
+      "source": "product_page"
+    },
+    {
+      "product_id": "4",
+      "date": "2023-04-09",
+      "date_is_synthetic": false,
+      "text": "It's like a health potion for gamers! The energy boost is spot on.",
+      "rating": 4,
+      "author": null,
+      "source": "product_page"
+    },
+    {
+      "product_id": "4",
+      "date": "2023-05-17",
+      "date_is_synthetic": false,
+      "text": "Good flavor and keeps me energized. The bottle design is really fun.",
+      "rating": 5,
+      "author": null,
+      "source": "product_page"
+    },
+    {
+      "product_id": "5",
+      "date": "2023-01-15",
+      "date_is_synthetic": false,
+      "text": "The design is just epic! And the energy boost is real.",
+      "rating": 4,
+      "author": null,
+      "source": "product_page"
+    },
+    {
+      "product_id": "5",
+      "date": "2023-02-20",
+      "date_is_synthetic": false,
+      "text": "Perfect for long gaming nights. Love the taste and the cool bottle design.",
+      "rating": 5,
+      "author": null,
+      "source": "product_page"
+    },
+    {
+      "product_id": "5",
+      "date": "2023-03-10",
+      "date_is_synthetic": false,
+      "text": "Finally, an energy drink for gamers! It's just like a mana potion.",
+      "rating": 5,
+      "author": null,
+      "source": "product_page"
+    },
+    {
+      "product_id": "5",
+      "date": "2023-04-01",
+      "date_is_synthetic": false,
+      "text": "Great taste and doesn't give me a crash afterwards.",
+      "rating": 4,
+      "author": null,
+      "source": "product_page"
+    },
+    {
+      "product_id": "5",
+      "date": "2023-04-25",
+      "date_is_synthetic": false,
+      "text": "Really enjoyed the citrus flavor and the energy boost it gives.",
+      "rating": 5,
+      "author": null,
+      "source": "product_page"
+    },
+    {
+      "product_id": "6",
+      "date": "2023-02-18",
+      "date_is_synthetic": false,
+      "text": "The tropical flavor is really good, and the energy kick is powerful.",
+      "rating": 5,
+      "author": null,
+      "source": "product_page"
+    },
+    {
+      "product_id": "6",
+      "date": "2023-03-15",
+      "date_is_synthetic": false,
+      "text": "Just what I need for long gaming sessions. Great flavor and energy boost.",
+      "rating": 5,
+      "author": null,
+      "source": "product_page"
+    },
+    {
+      "product_id": "6",
+      "date": "2023-04-11",
+      "date_is_synthetic": false,
+      "text": "This potion is a game changer. Love the energy boost and the flavor.",
+      "rating": 5,
+      "author": null,
+      "source": "product_page"
+    },
+    {
+      "product_id": "6",
+      "date": "2023-05-16",
+      "date_is_synthetic": false,
+      "text": "Excellent energy drink for gamers. The tropical flavor is refreshing.",
+      "rating": 4,
+      "author": null,
+      "source": "product_page"
+    },
+    {
+      "product_id": "13",
+      "date": "2023-07-22",
+      "date_is_synthetic": false,
+      "text": "Absolutely delicious! The orange flavor is my favorite.",
+      "rating": 5,
+      "author": null,
+      "source": "product_page"
+    },
+    {
+      "product_id": "13",
+      "date": "2023-08-16",
+      "date_is_synthetic": false,
+      "text": "I bought these as a gift, and they were well received. Will definitely purchase again.",
+      "rating": 4,
+      "author": null,
+      "source": "product_page"
+    },
+    {
+      "product_id": "13",
+      "date": "2023-09-10",
+      "date_is_synthetic": false,
+      "text": "Nice variety of flavors. The chocolate is rich and smooth.",
+      "rating": 5,
+      "author": null,
+      "source": "product_page"
+    },
+    {
+      "product_id": "13",
+      "date": "2023-10-02",
+      "date_is_synthetic": false,
+      "text": "The cherry flavor is amazing. Will be buying more.",
+      "rating": 5,
+      "author": null,
+      "source": "product_page"
+    },
+    {
+      "product_id": "13",
+      "date": "2023-11-05",
+      "date_is_synthetic": false,
+      "text": "A bit pricey, but the quality of the chocolate is worth it.",
+      "rating": 4,
+      "author": null,
+      "source": "product_page"
+    },
+    {
+      "product_id": "14",
+      "date": "2023-02-12",
+      "date_is_synthetic": false,
+      "text": "The cherry cola flavor is very appealing. Provides a good energy boost for gaming!",
+      "rating": 4,
+      "author": null,
+      "source": "product_page"
+    },
+    {
+      "product_id": "14",
+      "date": "2023-03-14",
+      "date_is_synthetic": false,
+      "text": "Definitely helped me stay focused during my long gaming nights. Plus, the bottle design is pretty cool.",
+      "rating": 5,
+      "author": null,
+      "source": "product_page"
+    },
+    {
+      "product_id": "14",
+      "date": "2023-04-05",
+      "date_is_synthetic": false,
+      "text": "Great taste, and the energy kick is awesome. Feels just like a strength potion.",
+      "rating": 5,
+      "author": null,
+      "source": "product_page"
+    },
+    {
+      "product_id": "14",
+      "date": "2023-05-12",
+      "date_is_synthetic": false,
+      "text": "The cherry cola flavor is a win. Keeps me energized and focused.",
+      "rating": 5,
+      "author": null,
+      "source": "product_page"
+    },
+    {
+      "product_id": "15",
+      "date": "2023-02-12",
+      "date_is_synthetic": false,
+      "text": "The mint and citrus blend is very refreshing. And the bottle design is great too!",
+      "rating": 5,
+      "author": null,
+      "source": "product_page"
+    },
+    {
+      "product_id": "15",
+      "date": "2023-03-14",
+      "date_is_synthetic": false,
+      "text": "I love how it gives me the energy I need for my gaming sessions. Plus, no sugar crash.",
+      "rating": 4,
+      "author": null,
+      "source": "product_page"
+    },
+    {
+      "product_id": "15",
+      "date": "2023-04-07",
+      "date_is_synthetic": false,
+      "text": "Really helps me focus during intense gaming marathons. The teal color is a nice touch.",
+      "rating": 5,
+      "author": null,
+      "source": "product_page"
+    },
+    {
+      "product_id": "15",
+      "date": "2023-05-18",
+      "date_is_synthetic": false,
+      "text": "Unique flavor and great energy boost. It's the perfect gamer's drink!",
+      "rating": 5,
+      "author": null,
+      "source": "product_page"
+    },
+    {
+      "product_id": "16",
+      "date": "2023-02-10",
+      "date_is_synthetic": false,
+      "text": "The berry flavor is intense and delicious. Great for keeping me focused during my gaming sessions.",
+      "rating": 5,
+      "author": null,
+      "source": "product_page"
+    },
+    {
+      "product_id": "16",
+      "date": "2023-03-20",
+      "date_is_synthetic": false,
+      "text": "Not only does it look cool, but it tastes great and gives a good energy boost!",
+      "rating": 5,
+      "author": null,
+      "source": "product_page"
+    },
+    {
+      "product_id": "16",
+      "date": "2023-04-09",
+      "date_is_synthetic": false,
+      "text": "It's like a health potion for gamers! The energy boost is spot on.",
+      "rating": 4,
+      "author": null,
+      "source": "product_page"
+    },
+    {
+      "product_id": "16",
+      "date": "2023-05-17",
+      "date_is_synthetic": false,
+      "text": "Good flavor and keeps me energized. The bottle design is really fun.",
+      "rating": 5,
+      "author": null,
+      "source": "product_page"
+    },
+    {
+      "product_id": "17",
+      "date": "2023-01-15",
+      "date_is_synthetic": false,
+      "text": "The design is just epic! And the energy boost is real.",
+      "rating": 4,
+      "author": null,
+      "source": "product_page"
+    },
+    {
+      "product_id": "17",
+      "date": "2023-02-20",
+      "date_is_synthetic": false,
+      "text": "Perfect for long gaming nights. Love the taste and the cool bottle design.",
+      "rating": 5,
+      "author": null,
+      "source": "product_page"
+    },
+    {
+      "product_id": "17",
+      "date": "2023-03-10",
+      "date_is_synthetic": false,
+      "text": "Finally, an energy drink for gamers! It's just like a mana potion.",
+      "rating": 5,
+      "author": null,
+      "source": "product_page"
+    },
+    {
+      "product_id": "17",
+      "date": "2023-04-01",
+      "date_is_synthetic": false,
+      "text": "Great taste and doesn't give me a crash afterwards.",
+      "rating": 4,
+      "author": null,
+      "source": "product_page"
+    },
+    {
+      "product_id": "17",
+      "date": "2023-04-25",
+      "date_is_synthetic": false,
+      "text": "Really enjoyed the citrus flavor and the energy boost it gives.",
+      "rating": 5,
+      "author": null,
+      "source": "product_page"
+    },
+    {
+      "product_id": "18",
+      "date": "2023-02-18",
+      "date_is_synthetic": false,
+      "text": "The tropical flavor is really good, and the energy kick is powerful.",
+      "rating": 5,
+      "author": null,
+      "source": "product_page"
+    },
+    {
+      "product_id": "18",
+      "date": "2023-03-15",
+      "date_is_synthetic": false,
+      "text": "Just what I need for long gaming sessions. Great flavor and energy boost.",
+      "rating": 5,
+      "author": null,
+      "source": "product_page"
+    },
+    {
+      "product_id": "18",
+      "date": "2023-04-11",
+      "date_is_synthetic": false,
+      "text": "This potion is a game changer. Love the energy boost and the flavor.",
+      "rating": 5,
+      "author": null,
+      "source": "product_page"
+    },
+    {
+      "product_id": "18",
+      "date": "2023-05-16",
+      "date_is_synthetic": false,
+      "text": "Excellent energy drink for gamers. The tropical flavor is refreshing.",
+      "rating": 4,
+      "author": null,
+      "source": "product_page"
+    },
+    {
+      "product_id": "25",
+      "date": "2023-07-22",
+      "date_is_synthetic": false,
+      "text": "Absolutely delicious! The orange flavor is my favorite.",
+      "rating": 5,
+      "author": null,
+      "source": "product_page"
+    },
+    {
+      "product_id": "25",
+      "date": "2023-08-16",
+      "date_is_synthetic": false,
+      "text": "I bought these as a gift, and they were well received. Will definitely purchase again.",
+      "rating": 4,
+      "author": null,
+      "source": "product_page"
+    },
+    {
+      "product_id": "25",
+      "date": "2023-09-10",
+      "date_is_synthetic": false,
+      "text": "Nice variety of flavors. The chocolate is rich and smooth.",
+      "rating": 5,
+      "author": null,
+      "source": "product_page"
+    },
+    {
+      "product_id": "25",
+      "date": "2023-10-02",
+      "date_is_synthetic": false,
+      "text": "The cherry flavor is amazing. Will be buying more.",
+      "rating": 5,
+      "author": null,
+      "source": "product_page"
+    },
+    {
+      "product_id": "25",
+      "date": "2023-11-05",
+      "date_is_synthetic": false,
+      "text": "A bit pricey, but the quality of the chocolate is worth it.",
+      "rating": 4,
+      "author": null,
+      "source": "product_page"
+    },
+    {
+      "product_id": "26",
+      "date": "2023-02-12",
+      "date_is_synthetic": false,
+      "text": "The cherry cola flavor is very appealing. Provides a good energy boost for gaming!",
+      "rating": 4,
+      "author": null,
+      "source": "product_page"
+    },
+    {
+      "product_id": "26",
+      "date": "2023-03-14",
+      "date_is_synthetic": false,
+      "text": "Definitely helped me stay focused during my long gaming nights. Plus, the bottle design is pretty cool.",
+      "rating": 5,
+      "author": null,
+      "source": "product_page"
+    },
+    {
+      "product_id": "26",
+      "date": "2023-04-05",
+      "date_is_synthetic": false,
+      "text": "Great taste, and the energy kick is awesome. Feels just like a strength potion.",
+      "rating": 5,
+      "author": null,
+      "source": "product_page"
+    },
+    {
+      "product_id": "26",
+      "date": "2023-05-12",
+      "date_is_synthetic": false,
+      "text": "The cherry cola flavor is a win. Keeps me energized and focused.",
+      "rating": 5,
+      "author": null,
+      "source": "product_page"
+    },
+    {
+      "product_id": "27",
+      "date": "2023-02-12",
+      "date_is_synthetic": false,
+      "text": "The mint and citrus blend is very refreshing. And the bottle design is great too!",
+      "rating": 5,
+      "author": null,
+      "source": "product_page"
+    },
+    {
+      "product_id": "27",
+      "date": "2023-03-14",
+      "date_is_synthetic": false,
+      "text": "I love how it gives me the energy I need for my gaming sessions. Plus, no sugar crash.",
+      "rating": 4,
+      "author": null,
+      "source": "product_page"
+    },
+    {
+      "product_id": "27",
+      "date": "2023-04-07",
+      "date_is_synthetic": false,
+      "text": "Really helps me focus during intense gaming marathons. The teal color is a nice touch.",
+      "rating": 5,
+      "author": null,
+      "source": "product_page"
+    },
+    {
+      "product_id": "27",
+      "date": "2023-05-18",
+      "date_is_synthetic": false,
+      "text": "Unique flavor and great energy boost. It's the perfect gamer's drink!",
+      "rating": 5,
+      "author": null,
+      "source": "product_page"
+    },
+    {
+      "product_id": "28",
+      "date": "2023-02-10",
+      "date_is_synthetic": false,
+      "text": "The berry flavor is intense and delicious. Great for keeping me focused during my gaming sessions.",
+      "rating": 5,
+      "author": null,
+      "source": "product_page"
+    },
+    {
+      "product_id": "28",
+      "date": "2023-03-20",
+      "date_is_synthetic": false,
+      "text": "Not only does it look cool, but it tastes great and gives a good energy boost!",
+      "rating": 5,
+      "author": null,
+      "source": "product_page"
+    },
+    {
+      "product_id": "28",
+      "date": "2023-04-09",
+      "date_is_synthetic": false,
+      "text": "It's like a health potion for gamers! The energy boost is spot on.",
+      "rating": 4,
+      "author": null,
+      "source": "product_page"
+    },
+    {
+      "product_id": "28",
+      "date": "2023-05-17",
+      "date_is_synthetic": false,
+      "text": "Good flavor and keeps me energized. The bottle design is really fun.",
+      "rating": 5,
+      "author": null,
+      "source": "product_page"
+    }
+  ]
+}
