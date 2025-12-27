@@ -4,5 +4,3 @@ requests
 beautifulsoup4
 python-dateutil
 matplotlib
-transformers==4.56.2
-torch==2.5.1
